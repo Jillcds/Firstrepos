@@ -1,4 +1,0 @@
-12121
-
-
-test for git add and rm`
